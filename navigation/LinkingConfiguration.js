@@ -7,7 +7,7 @@ export default {
       path: "root",
       screens: {
         Home: "home",
-        Links: "links",
+        Explore: "explore",
         OwnProfile: "ownProfile",
         Notifications: "notifications",
       },
