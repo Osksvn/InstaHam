@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
   MainContainer: {
     justifyContent: "center",
     flex: 1,
-    paddingTop: 30,
+    paddingTop: 10,
   },
   imageThumbnail: {
     justifyContent: "center",
